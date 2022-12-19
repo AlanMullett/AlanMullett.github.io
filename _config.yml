@@ -10,3 +10,6 @@ github_username:  AlanMullett
 
 # Build settings
 markdown: kramdown
+
+#allow authentication pages
+include: [".well-known"]
